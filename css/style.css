@@ -1,0 +1,38 @@
+.image {
+    border: 5px solid #6f12b0;
+    width: 50%;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    margin: 10vw;
+  }
+  
+  .description {
+    font-size: 1em;
+    font-weight: 100;
+    margin: 0;
+  }
+  
+  .link {
+    color: blue;
+  }
+  
+  .subtitle {
+    padding: 20px 0;
+    margin: 0;
+  }
+  
+  .language-table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 50%;
+  }
+  
+  .language-table th,
+  .language-table td {
+    border: 1px solid black;
+    padding: 10px;
+  }
+  
